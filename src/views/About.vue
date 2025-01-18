@@ -7,11 +7,9 @@
 </template>
 
 <script setup>
-// Puedes agregar lógica si es necesario
 </script>
 
 <style scoped>
-/* Estilos específicos para la página About */
 h1 {
     color: #35495e;
 }

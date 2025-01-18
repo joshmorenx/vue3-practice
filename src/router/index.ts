@@ -25,8 +25,8 @@ const routes: Array<RouteRecordRaw> = [
 
 // Crear el router
 const router = createRouter({
-    history: createWebHistory(import.meta.env.BASE_URL), // Usa el modo de historial web
-    routes, // Define las rutas
+    history: createWebHistory(import.meta.env.BASE_URL),
+    routes,
 });
 
 export default router;

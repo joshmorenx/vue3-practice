@@ -1,8 +1,8 @@
 // src/main.ts
 import { createApp } from 'vue';
 import App from './App.vue';
-import router from './router'; // Asegúrate de importar el router correctamente
+import router from './router';
 
 const app = createApp(App);
-app.use(router); // Usar Vue Router
+app.use(router);
 app.mount('#app');

@@ -10,7 +10,6 @@
 </template>
 
 <script setup>
-// No necesitas lógica extra aquí
 </script>
 
 <style>
